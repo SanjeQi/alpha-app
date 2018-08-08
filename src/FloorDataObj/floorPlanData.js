@@ -3,7 +3,7 @@
 export default function floorPlanData() {
     return [
         {
-            studioNr:1,
+            studioNo:1,
             availability:'sold', 
             window:'yes',
             sizeSqFt:243,
@@ -13,7 +13,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:2, 
+            studioNo:2, 
             availability:'reserved',
             window:'yes',
             sizeSqFt:283,
@@ -23,7 +23,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:3, 
+            studioNo:3, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:334,
@@ -33,7 +33,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:4, 
+            studioNo:4, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:293,
@@ -43,7 +43,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:5, 
+            studioNo:5, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:324,
@@ -53,7 +53,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:6, 
+            studioNo:6, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:374,
@@ -63,7 +63,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:7, 
+            studioNo:7, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:668,
@@ -73,7 +73,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:8, 
+            studioNo:8, 
             availability:'available', 
             window:'yes',
             sizeSqFt:384,
@@ -83,7 +83,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:9, 
+            studioNo:9, 
             availability:'available', 
             window:'yes',
             sizeSqFt:587,
@@ -93,7 +93,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:10, 
+            studioNo:10, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:384,
@@ -103,7 +103,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:11, 
+            studioNo:11, 
             availability:'sold', 
             window:'no',
             sizeSqFt:209,
@@ -113,7 +113,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:12, 
+            studioNo:12, 
             availability:'sold', 
             window:'no',
             sizeSqFt:210,
@@ -123,7 +123,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:13, 
+            studioNo:13, 
             availability:'available', 
             window:'no',
             sizeSqFt:331,
@@ -133,7 +133,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:14, 
+            studioNo:14, 
             availability:'available', 
             window:'no',
             sizeSqFt:191,
@@ -143,7 +143,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:15, 
+            studioNo:15, 
             availability:'available', 
             window:'yes',
             sizeSqFt:430,
@@ -153,7 +153,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:16, 
+            studioNo:16, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:196,
@@ -163,7 +163,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:17, 
+            studioNo:17, 
             availability:'available', 
             window:'yes',
             sizeSqFt:301,
@@ -173,7 +173,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:18, 
+            studioNo:18, 
             availability:'available', 
             window:'no',
             sizeSqFt:156,
@@ -183,7 +183,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:19, 
+            studioNo:19, 
             availability:'available', 
             window:'yes',
             sizeSqFt:968,
@@ -193,7 +193,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:20, 
+            studioNo:20, 
             availability:'unavailable', 
             window:'no',
             sizeSqFt:116,
@@ -203,7 +203,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:21, 
+            studioNo:21, 
             availability:'unavailable', 
             window:'no',
             sizeSqFt:275,
@@ -213,7 +213,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:22, 
+            studioNo:22, 
             availability:'unavailable', 
             window:'no',
             sizeSqFt:202,
@@ -223,7 +223,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:23, 
+            studioNo:23, 
             availability:'unavailable', 
             window:'no',
             sizeSqFt:264,
@@ -233,7 +233,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:24, 
+            studioNo:24, 
             availability:'unavailable', 
             window:'no',
             sizeSqFt:121,
@@ -243,7 +243,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:25, 
+            studioNo:25, 
             availability:'unavailable', 
             window:'no',
             sizeSqFt:118,
@@ -253,7 +253,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:26, 
+            studioNo:26, 
             availability:'unavailable', 
             window:'no',
             sizeSqFt:116,
@@ -263,7 +263,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:27, 
+            studioNo:27, 
             availability:'unavailable', 
             window:'no',
             sizeSqFt:140,
@@ -273,7 +273,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:28, 
+            studioNo:28, 
             availability:'sold', 
             window:'no',
             sizeSqFt:151,
@@ -283,7 +283,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:29, 
+            studioNo:29, 
             availability:'available', 
             window:'no',
             sizeSqFt:142,
@@ -293,7 +293,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:30, 
+            studioNo:30, 
             availability:'reserved', 
             window:'no',
             sizeSqFt:201,
@@ -303,7 +303,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:31, 
+            studioNo:31, 
             availability:'available', 
             window:'no',
             sizeSqFt:170,
@@ -313,7 +313,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:32, 
+            studioNo:32, 
             availability:'sold', 
             window:'no',
             sizeSqFt:128,
@@ -323,7 +323,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:33, 
+            studioNo:33, 
             availability:'reserved', 
             window:'no',
             sizeSqFt:120,
@@ -333,7 +333,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:34, 
+            studioNo:34, 
             availability:'temporary taken', 
             window:'no',
             sizeSqFt:126,
@@ -343,7 +343,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:35, 
+            studioNo:35, 
             availability:'sold', 
             window:'no',
             sizeSqFt:305,
@@ -353,7 +353,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:36, 
+            studioNo:36, 
             availability:'available', 
             window:'yes',
             sizeSqFt:432,
@@ -363,7 +363,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:37, 
+            studioNo:37, 
             availability:'available', 
             window:'yes',
             sizeSqFt:508,
@@ -373,7 +373,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:38, 
+            studioNo:38, 
             availability:'available', 
             window:'yes',
             sizeSqFt:368,
@@ -383,7 +383,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:39, 
+            studioNo:39, 
             availability:'available', 
             window:'yes',
             sizeSqFt:470,
@@ -393,7 +393,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:40, 
+            studioNo:40, 
             availability:'available', 
             window:'yes',
             sizeSqFt:343,
@@ -403,7 +403,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:41, 
+            studioNo:41, 
             availability:'available', 
             window:'no',
             sizeSqFt:142,
@@ -413,7 +413,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:42, 
+            studioNo:42, 
             availability:'sold', 
             window:'no',
             sizeSqFt:155,
@@ -423,7 +423,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:43, 
+            studioNo:43, 
             availability:'reserved', 
             window:'no',
             sizeSqFt:116,
@@ -433,7 +433,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:44, 
+            studioNo:44, 
             availability:'sold', 
             window:'no',
             sizeSqFt:129,
@@ -443,7 +443,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:45, 
+            studioNo:45, 
             availability:'sold', 
             window:'no',
             sizeSqFt:116,
@@ -453,7 +453,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:46, 
+            studioNo:46, 
             availability:'sold', 
             window:'no',
             sizeSqFt:116,
@@ -463,7 +463,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:47, 
+            studioNo:47, 
             availability:'reserved', 
             window:'no',
             sizeSqFt:116,
@@ -473,7 +473,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:48, 
+            studioNo:48, 
             availability:'available', 
             window:'no',
             sizeSqFt:198,
@@ -483,7 +483,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:49, 
+            studioNo:49, 
             availability:'available', 
             window:'no',
             sizeSqFt:204,
@@ -493,7 +493,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:50, 
+            studioNo:50, 
             availability:'available', 
             window:'no',
             sizeSqFt:903,
@@ -503,7 +503,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:51, 
+            studioNo:51, 
             availability:'available', 
             window:'no',
             sizeSqFt:275,
@@ -513,7 +513,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:52, 
+            studioNo:52, 
             availability:'sold', 
             window:'no',
             sizeSqFt:212,
@@ -523,7 +523,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:53, 
+            studioNo:53, 
             availability:'available', 
             window:'no',
             sizeSqFt:267,
@@ -533,7 +533,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:54, 
+            studioNo:54, 
             availability:'sold', 
             window:'no',
             sizeSqFt:189,
@@ -543,7 +543,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:55, 
+            studioNo:55, 
             availability:'sold', 
             window:'no',
             sizeSqFt:107,
@@ -553,7 +553,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:56, 
+            studioNo:56, 
             availability:'sold', 
             window:'no',
             sizeSqFt:126,
@@ -563,7 +563,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:57, 
+            studioNo:57, 
             availability:'sold', 
             window:'no',
             sizeSqFt:111,
@@ -573,7 +573,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:58, 
+            studioNo:58, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:491,
@@ -583,7 +583,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:59, 
+            studioNo:59, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:452,
@@ -593,7 +593,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:60, 
+            studioNo:60, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:560,
@@ -603,7 +603,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:61, 
+            studioNo:61, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:312,
@@ -613,7 +613,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:62, 
+            studioNo:62, 
             availability:'reserved', 
             window:'yes',
             sizeSqFt:495,
@@ -623,7 +623,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:63, 
+            studioNo:63, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:256,
@@ -633,7 +633,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:64, 
+            studioNo:64, 
             availability:'available', 
             window:'yes',
             sizeSqFt:307,
@@ -643,7 +643,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:65, 
+            studioNo:65, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:390,
@@ -653,7 +653,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:66, 
+            studioNo:66, 
             availability:'available', 
             window:'yes',
             sizeSqFt:325,
@@ -663,7 +663,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:67, 
+            studioNo:67, 
             availability:'reserved', 
             window:'yes',
             sizeSqFt:296,
@@ -673,7 +673,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:68, 
+            studioNo:68, 
             availability:'sold', 
             window:'yes',
             sizeSqFt:340,
@@ -683,7 +683,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:69, 
+            studioNo:69, 
             availability:'available', 
             window:'yes',
             sizeSqFt:400,
@@ -693,7 +693,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'a', 
+            studioNo:'a', 
             availability:'reserved',
             window:'no',
             sizeSqFt:124,
@@ -703,7 +703,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'b', 
+            studioNo:'b', 
             availability:'sold',
             window:'no',
             sizeSqFt:124,
@@ -713,7 +713,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'c', 
+            studioNo:'c', 
             availability:'sold', 
             window:'no',
             sizeSqFt:124,
@@ -723,7 +723,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'d', 
+            studioNo:'d', 
             availability:'available', 
             window:'no',
             sizeSqFt:124,
@@ -733,7 +733,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'e', 
+            studioNo:'e', 
             availability:'sold', 
             size:'no', 
             sizeSqFt:172,
@@ -743,7 +743,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'f', 
+            studioNo:'f', 
             availability:'sold', 
             size:'no', 
             sizeSqFt:118,
@@ -753,7 +753,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'g', 
+            studioNo:'g', 
             availability:'available', 
             window:'no',
             sizeSqFt:247,
@@ -763,7 +763,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'h', 
+            studioNo:'h', 
             availability:'sold', 
             window:'no',
             sizeSqFt:309,
@@ -773,7 +773,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'i', 
+            studioNo:'i', 
             availability:'reserved', 
             window:'no',
             sizeSqFt:309,
@@ -783,7 +783,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'j', 
+            studioNo:'j', 
             availability:'sold', 
             window:'no',
             sizeSqFt:309,
@@ -793,7 +793,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'k', 
+            studioNo:'k', 
             availability:'unavailable', 
             window:'no',
             sizeSqFt:66,
@@ -803,7 +803,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'l', 
+            studioNo:'l', 
             availability:'sold', 
             window:'no',
             sizeSqFt:76,
@@ -813,7 +813,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'m',
+            studioNo:'m',
             availability:'unavailable', 
             window:'no',
             sizeSqFt:84,
@@ -823,7 +823,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'n',
+            studioNo:'n',
             availability:'reserved', 
             window:'no',
             sizeSqFt:84,
@@ -833,7 +833,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'o',
+            studioNo:'o',
             availability:'unavailable', 
             window:'no',
             sizeSqFt:66,
@@ -843,7 +843,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'p',
+            studioNo:'p',
             availability:'reserved', 
             window:'no',
             sizeSqFt:84,
@@ -853,7 +853,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'q',
+            studioNo:'q',
             availability:'sold', 
             window:'no',
             sizeSqFt:162,
@@ -863,7 +863,7 @@ export default function floorPlanData() {
 
         },
         {
-            studioNr:'r',
+            studioNo:'r',
             availability:'sold', 
             window:'no',
             sizeSqFt:170,
